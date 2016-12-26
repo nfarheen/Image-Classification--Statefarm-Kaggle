@@ -6,7 +6,9 @@ One in five car accidents is caused by a distracted driver. This is an alarming 
 Algorithm used for - 
 
 image processing: SURF
+
 feature extraction: Bag of visual words (using k-means on image descriptors)
+
 image classification: Logistic Regression and SVM
 
 How to run the code:
