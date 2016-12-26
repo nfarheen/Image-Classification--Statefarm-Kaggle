@@ -13,6 +13,7 @@ Image classification: Logistic Regression and SVM
 
 #How to run the code:
 The dataset can be found at https://www.kaggle.com/c/state-farm-distracted-driver-detection
+
 Only a subset of the dataset was used to do this project because of limited computing capacity.
 
 ##Packages required:
